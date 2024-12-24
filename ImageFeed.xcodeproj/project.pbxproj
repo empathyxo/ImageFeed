@@ -30,6 +30,64 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		362F86382D06B1E400D3E833 /* Exceptions for "ImageFeed" folder in "ImageFeedTests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				FavoriteButton/Active.png,
+				"FavoriteButton/No Active.png",
+				ImagesList/ImagesListCell.swift,
+				mockImages/0.jpg,
+				mockImages/1.jpg,
+				mockImages/2.jpg,
+				mockImages/3.jpg,
+				mockImages/4.jpg,
+				mockImages/5.jpg,
+				mockImages/6.jpg,
+				mockImages/7.jpg,
+				mockImages/8.jpg,
+				mockImages/9.jpg,
+				mockImages/10.jpg,
+				mockImages/11.jpg,
+				mockImages/12.jpg,
+				mockImages/13.jpg,
+				mockImages/14.jpg,
+				mockImages/15.jpg,
+				mockImages/16.jpg,
+				mockImages/17.jpg,
+				mockImages/18.jpg,
+				mockImages/19.jpg,
+			);
+			target = 365B30ED2D029DDB00AA674C /* ImageFeedTests */;
+		};
+		362F86392D06B1E400D3E833 /* Exceptions for "ImageFeed" folder in "ImageFeedUITests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				FavoriteButton/Active.png,
+				"FavoriteButton/No Active.png",
+				ImagesList/ImagesListCell.swift,
+				mockImages/0.jpg,
+				mockImages/1.jpg,
+				mockImages/2.jpg,
+				mockImages/3.jpg,
+				mockImages/4.jpg,
+				mockImages/5.jpg,
+				mockImages/6.jpg,
+				mockImages/7.jpg,
+				mockImages/8.jpg,
+				mockImages/9.jpg,
+				mockImages/10.jpg,
+				mockImages/11.jpg,
+				mockImages/12.jpg,
+				mockImages/13.jpg,
+				mockImages/14.jpg,
+				mockImages/15.jpg,
+				mockImages/16.jpg,
+				mockImages/17.jpg,
+				mockImages/18.jpg,
+				mockImages/19.jpg,
+			);
+			target = 365B30F72D029DDB00AA674C /* ImageFeedUITests */;
+		};
 		365B31002D029DDB00AA674C /* Exceptions for "ImageFeed" folder in "ImageFeed" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
@@ -44,6 +102,8 @@
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
 				365B31002D029DDB00AA674C /* Exceptions for "ImageFeed" folder in "ImageFeed" target */,
+				362F86382D06B1E400D3E833 /* Exceptions for "ImageFeed" folder in "ImageFeedTests" target */,
+				362F86392D06B1E400D3E833 /* Exceptions for "ImageFeed" folder in "ImageFeedUITests" target */,
 			);
 			path = ImageFeed;
 			sourceTree = "<group>";
